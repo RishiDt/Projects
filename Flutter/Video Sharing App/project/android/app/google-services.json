@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "184380706481",
+    "project_id": "videosharingapp-store",
+    "storage_bucket": "videosharingapp-store.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184380706481:android:7fd303cdeb7c8948a31c90",
+        "android_client_info": {
+          "package_name": "com.example.video_sharing_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMKarJep0DzRUAuiO9yLAOCobpihpOwNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
